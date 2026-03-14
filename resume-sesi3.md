@@ -296,6 +296,6 @@ Kode dapat dijalankan langsung melalui DartPad menggunakan link berikut:
 
 - [Soal 2 – Enkapsulasi](https://dartpad.dev/?id=https://gist.github.com/anekalsd96-source/ce546772572cb03137c99feedd1d5136)
 
-- [Sistem Login Sederhana](https://dartpad.dev/?id=https://gist.github.com/anekalsd96-source/11c4be90ab6f0f045247ee8170425189)
+- [Sistem Login Sederhana](https://gist.github.com/anekalsd96-source/11c4be90ab6f0f045247ee8170425189)
 
 ---
