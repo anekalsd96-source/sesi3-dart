@@ -279,29 +279,13 @@ Login gagal
 
 ---
 ## Contoh Program Dart
-
-Program berikut dibuat menggunakan bahasa pemrograman Dart dan dapat langsung dijalankan melalui DartPad.
-
-### 1. Multiple Constructor
 - **Gist Source Code**:  
-[https://gist.github.com/anekalsd96-source/51b2c8cf5c2a4bf0d52e0808de251019](https://gist.github.com/anekalsd96-source/51b2c8cf5c2a4bf0d52e0808de251019)  
 
-- **Jalankan di DartPad**:  
-[https://dartpad.dev/?id=51b2c8cf5c2a4bf0d52e0808de251019](https://dartpad.dev/?id=51b2c8cf5c2a4bf0d52e0808de251019)
+1. [Multiple Constructor](https://gist.github.com/anekalsd96-source/51b2c8cf5c2a4bf0d52e0808de251019)
 
-### 2. Enkapsulasi
-- **Gist Source Code**:  
-[https://gist.github.com/anekalsd96-source/f89d459c04c47850c4162d4cbf0718ec](https://gist.github.com/anekalsd96-source/f89d459c04c47850c4162d4cbf0718ec)  
+2. [Enkapsulasi](https://gist.github.com/anekalsd96-source/f89d459c04c47850c4162d4cbf0718ec)
 
-- **Jalankan di DartPad**:  
-[https://dartpad.dev/?id=f89d459c04c47850c4162d4cbf0718ec](https://dartpad.dev/?id=f89d459c04c47850c4162d4cbf0718ec)
-
-### 3. Sistem Login Sederhana
-- **Gist Source Code**:  
-[https://gist.github.com/anekalsd96-source/11c4be90ab6f0f045247ee8170425189](https://gist.github.com/anekalsd96-source/11c4be90ab6f0f045247ee8170425189)  
-
-- **Jalankan di DartPad**:  
-[https://dartpad.dev/?id=11c4be90ab6f0f045247ee8170425189](https://dartpad.dev/?id=11c4be90ab6f0f045247ee8170425189)
+3. [Sistem Login Sederhana](https://gist.github.com/anekalsd96-source/11c4be90ab6f0f045247ee8170425189)
 
 ---
 
