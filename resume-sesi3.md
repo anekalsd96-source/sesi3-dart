@@ -277,6 +277,7 @@ Jika tidak cocok maka:
 
 Login gagal
 
+```markdown
 # Kesimpulan
 
 Dapat disimpulkan bahwa constructor merupakan bagian penting dalam pembuatan objek pada bahasa pemrograman Dart.
@@ -285,7 +286,7 @@ Selain itu, konsep enkapsulasi memungkinkan data dalam sebuah class dilindungi d
 Akses terhadap data tersebut dapat dilakukan melalui getter dan setter sehingga keamanan data dapat terjaga.
 Dengan menerapkan constructor dan enkapsulasi, program dapat menjadi lebih terstruktur, aman, dan mudah untuk dikembangkan di masa yang akan datang.
 
-```
+---
 
 ## Menjalankan Program
 
