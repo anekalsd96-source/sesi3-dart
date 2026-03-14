@@ -287,3 +287,14 @@ Akses terhadap data tersebut dapat dilakukan melalui getter dan setter sehingga 
 Dengan menerapkan constructor dan enkapsulasi, program dapat menjadi lebih terstruktur, aman, dan mudah untuk dikembangkan di masa yang akan datang.
 
 ---
+
+## Contoh Program Dart
+
+1. [Multiple Constructor](https://gist.github.com/anekalsd96-source/51b2c8cf5c2a4bf0d52e0808de251019)
+
+2. [Enkapsulasi](https://gist.github.com/anekalsd96-source/f89d459c04c47850c4162d4cbf0718ec)
+
+3. [Sistem Login Sederhana](https://gist.github.com/anekalsd96-source/11c4be90ab6f0f045247ee8170425189)
+
+---
+
