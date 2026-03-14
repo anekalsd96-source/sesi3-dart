@@ -292,9 +292,9 @@ Dengan menerapkan constructor dan enkapsulasi, program dapat menjadi lebih terst
 
 Kode dapat dijalankan langsung melalui DartPad menggunakan link berikut:
 
-- [Soal 1 – Multiple Constructor](https://dartpad.dev/?id=https://gist.github.com/anekalsd96-source/21dfcb61bde4b5bc018f531c4f0b51fa)
+- [Soal 1 – Multiple Constructor](https://dartpad.dev/?id=https://gist.github.com/anekalsd96-source/51b2c8cf5c2a4bf0d52e0808de251019)
 
-- [Soal 2 – Enkapsulasi](https://dartpad.dev/?id=https://gist.github.com/anekalsd96-source/ce546772572cb03137c99feedd1d5136)
+- [Soal 2 – Enkapsulasi](https://dartpad.dev/?id=https://gist.github.com/anekalsd96-source/f89d459c04c47850c4162d4cbf0718ec)
 
 - [Sistem Login Sederhana](https://dartpad.dev/?id=https://gist.github.com/anekalsd96-source/11c4be90ab6f0f045247ee8170425189)
 
